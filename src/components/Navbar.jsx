@@ -11,7 +11,7 @@ function Navbar() {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
   return (
-    <div className="fixed- w-full h-[80px] flex justify-between items-center px-4 bg-[#030520] text-white">
+    <div className="fixed- w-full h-[80px] flex justify-between items-center px-4 bg-[#020f15] text-white">
       <div>
         <ul className="hidden md:flex">
           <li>Home</li>
