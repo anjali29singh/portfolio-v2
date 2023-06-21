@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-v2/static/css/main.d13618eb.css",
-    "main.js": "/portfolio-v2/static/js/main.64e9f8e3.js",
-    "static/media/grocery-list.png": "/portfolio-v2/static/media/grocery-list.948e26072fdd38661c83.png",
-    "static/media/portfolio.png": "/portfolio-v2/static/media/portfolio.b53b6f5a2c227ae2daee.png",
-    "static/media/weather-forecast.png": "/portfolio-v2/static/media/weather-forecast.969334eac8fb8f5ff34c.png",
-    "static/media/shrinky.png": "/portfolio-v2/static/media/shrinky.9080db8e6c6491d86d88.png",
-    "index.html": "/portfolio-v2/index.html",
-    "main.d13618eb.css.map": "/portfolio-v2/static/css/main.d13618eb.css.map",
-    "main.64e9f8e3.js.map": "/portfolio-v2/static/js/main.64e9f8e3.js.map"
+    "main.css": "/static/css/main.d13618eb.css",
+    "main.js": "/static/js/main.c0436a28.js",
+    "static/media/grocery-list.png": "/static/media/grocery-list.948e26072fdd38661c83.png",
+    "static/media/portfolio.png": "/static/media/portfolio.b53b6f5a2c227ae2daee.png",
+    "static/media/weather-forecast.png": "/static/media/weather-forecast.969334eac8fb8f5ff34c.png",
+    "static/media/shrinky.png": "/static/media/shrinky.9080db8e6c6491d86d88.png",
+    "index.html": "/index.html",
+    "main.d13618eb.css.map": "/static/css/main.d13618eb.css.map",
+    "main.c0436a28.js.map": "/static/js/main.c0436a28.js.map"
   },
   "entrypoints": [
     "static/css/main.d13618eb.css",
-    "static/js/main.64e9f8e3.js"
+    "static/js/main.c0436a28.js"
   ]
 }
