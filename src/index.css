@@ -10,9 +10,9 @@
 }
 .content-div {
   background-repeat: no-repeat;
-  background-size: cover;
+  /* background-size:; */
   background-position: center;
-  height: 250px;
+  height: 300px;
 }
 
 .content-div:hover {
